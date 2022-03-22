@@ -10,12 +10,5 @@ public class Boleto
 
     public bool Pago { get; set; } = false;
 
-    public Emprestimo ListaBoletos
-    {
-        get => default;
-        set
-        {
-        }
-    }
 }
 
